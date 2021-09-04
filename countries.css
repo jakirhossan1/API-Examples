@@ -1,0 +1,32 @@
+#countries{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+
+}
+
+.color{
+    color: black;
+    background-color: wheat;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    
+
+}
+#country-details{
+    text-align: center;
+    
+    
+}
+
+
+
+.country{
+    text-align: center;
+    border: 5px solid rgb(202, 245, 11);
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+ 
